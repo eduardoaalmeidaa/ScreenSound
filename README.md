@@ -4,4 +4,5 @@
 - `C#`: Linguagem de programação principal.
 - `OpenAI`: Utilizado ChatGPT
 
-![image](https://github.com/eduardoaalmeidaa/ScreenSound/assets/89856553/49d59c45-4ef2-4d78-a62b-cdb161d26616)
+![image](https://github.com/eduardoaalmeidaa/ScreenSound/assets/89856553/60b89f4b-960d-427f-b553-d0c59e8a1c93)
+
